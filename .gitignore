@@ -1,0 +1,11 @@
+build/
+.pub
+packages
+pubspec.lock
+.packages
+.idea/
+.settings
+.buildlog
+out/
+*.iml
+.c9*
